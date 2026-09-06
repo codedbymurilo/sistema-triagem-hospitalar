@@ -82,4 +82,3 @@ python app.py
 
 4. Acesse pelo navegador em `http://127.0.0.1:5000`.
 
-```
